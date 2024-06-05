@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ChefWist
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning javascript!
+- 💞️ I’m looking to collaborate on nothing!
+- 📫 How to reach me: you cant!
+- 😄 Pronouns: he/his/him.
+- ⚡ Fun fact: My favourite color is orange/red
